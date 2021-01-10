@@ -1,4 +1,4 @@
-module github.com/tidwall/buntdb
+module github.com/Sora233/buntdb
 
 go 1.15
 
